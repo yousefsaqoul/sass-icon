@@ -1,0 +1,80 @@
+$facebook-col: darkblue;
+$twitter-col: lightblue;
+$behance-col: #0647c0;
+$vimeo-col: lightblue;
+$snapchat-col: yellow;
+$amazon-col: tomato;
+$android-col: lightgreen;
+$js-col: rgb(236, 240, 9);
+$js-col-font: white;
+$size-2: 2em;
+$size-4: 7em;
+$margin-icon: 10px 30px;
+$radius: 10px;
+
+
+
+
+
+
+i {
+    font-size: $size-4;
+}
+
+i:nth-of-type(1)
+{
+    color: $twitter-col;
+
+}
+i:nth-of-type(2)
+{
+    color: $behance-col;
+
+}
+i:nth-of-type(3)
+{
+    color: $facebook-col;
+
+}
+i:nth-of-type(4)
+{
+    color: $vimeo-col;
+
+}
+i:nth-of-type(5)
+{
+    color: $snapchat-col;
+
+}
+i:nth-of-type(6)
+{
+    color: $amazon-col;
+
+}
+i:nth-of-type(7)
+{
+    color: $amazon-col;
+
+}
+i:nth-of-type(8)
+{
+    color: $android-col;
+
+}
+i:nth-of-type(9)
+{
+    color: $twitter-col;
+
+}
+i:nth-of-type(10)
+{
+    color: $facebook-col;
+
+}
+i:nth-of-type(11)
+{
+    color: $js-col-font;
+    background-color: $js-col;
+    border-radius: $radius;
+
+}
